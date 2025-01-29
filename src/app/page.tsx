@@ -13,7 +13,7 @@ export default function Home() {
           height={38}
           priority
         />
-        <h1>Deploy 5</h1>
+        <h1>Deploy DokPloy</h1>
         <ol>
           <li>
             Get started by editing <code>src/app/page.tsx</code>.
