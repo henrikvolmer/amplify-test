@@ -13,7 +13,7 @@ export default function Home() {
           height={38}
           priority
         />
-        <h1>Deploy Coolify Without version change 3</h1>
+        <h1>Deploy Coolify Without version change 4</h1>
         <ol>
           <li>
             Get started by editing <code>src/app/page.tsx</code>.
